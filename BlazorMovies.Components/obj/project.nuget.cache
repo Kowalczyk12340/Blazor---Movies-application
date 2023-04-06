@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "D4P5FtYf+1zFu97kYihDXwQSqzcltT/60ptme0eRky8dJPytztqi/IUqrBqCLyQPOfRaGmawb0KetWX4oT8J5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MKOWALCZ\\source\\repos\\my\\BlazorMovies\\BlazorMovies.Components\\BlazorMovies.Components.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\markdig\\0.31.0\\markdig.0.31.0.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.4\\microsoft.aspnetcore.authorization.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.4\\microsoft.aspnetcore.components.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.4\\microsoft.aspnetcore.components.analyzers.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.4\\microsoft.aspnetcore.components.authorization.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.4\\microsoft.aspnetcore.components.forms.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.4\\microsoft.aspnetcore.components.web.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.4\\microsoft.aspnetcore.metadata.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.extensions.localization\\7.0.4\\microsoft.extensions.localization.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.4\\microsoft.extensions.localization.abstractions.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\microsoft.jsinterop\\7.0.4\\microsoft.jsinterop.7.0.4.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\MKOWALCZ\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

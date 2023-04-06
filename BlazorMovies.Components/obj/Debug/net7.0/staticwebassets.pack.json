@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MKOWALCZ\\source\\repos\\my\\BlazorMovies\\BlazorMovies.Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorMovies.Components.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorMovies.Components.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MKOWALCZ\\source\\repos\\my\\BlazorMovies\\BlazorMovies.Components\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\MKOWALCZ\\source\\repos\\my\\BlazorMovies\\BlazorMovies.Components\\wwwroot\\custom.css",
+      "PackagePath": "staticwebassets\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\MKOWALCZ\\source\\repos\\my\\BlazorMovies\\BlazorMovies.Components\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "C:\\Users\\MKOWALCZ\\source\\repos\\my\\BlazorMovies\\BlazorMovies.Components\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorMovies.Components.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorMovies.Components.props",
+      "PackagePath": "build\\BlazorMovies.Components.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorMovies.Components.props",
+      "PackagePath": "buildMultiTargeting\\BlazorMovies.Components.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorMovies.Components.props",
+      "PackagePath": "buildTransitive\\BlazorMovies.Components.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

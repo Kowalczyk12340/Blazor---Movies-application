@@ -1,0 +1,16 @@
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\bin\Debug\net7.0\BlazorMovies.SharedBackend.deps.json
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\bin\Debug\net7.0\BlazorMovies.SharedBackend.dll
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\bin\Debug\net7.0\BlazorMovies.SharedBackend.pdb
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\bin\Debug\net7.0\BlazorMovies.Shared.dll
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\bin\Debug\net7.0\BlazorMovies.Shared.pdb
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\bin\Debug\net7.0\pl\BlazorMovies.Shared.resources.dll
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\BlazorMovies.SharedBackend.csproj.AssemblyReference.cache
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\BlazorMovies.SharedBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\BlazorMovies.SharedBackend.AssemblyInfoInputs.cache
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\BlazorMovies.SharedBackend.AssemblyInfo.cs
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\BlazorMovies.SharedBackend.csproj.CoreCompileInputs.cache
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\BlazorMovies.SharedBackend.csproj.CopyComplete
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\BlazorMovies.SharedBackend.dll
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\refint\BlazorMovies.SharedBackend.dll
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\BlazorMovies.SharedBackend.pdb
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.SharedBackend\obj\Debug\net7.0\ref\BlazorMovies.SharedBackend.dll

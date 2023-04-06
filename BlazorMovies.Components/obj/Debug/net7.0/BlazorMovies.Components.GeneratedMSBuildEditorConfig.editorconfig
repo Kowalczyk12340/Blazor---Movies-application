@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = BlazorMovies.Components
+build_property.RootNamespace = BlazorMovies.Components
+build_property.ProjectDir = C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.Components\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies.Components
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Genres/CreateGenre.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzXENyZWF0ZUdlbnJlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Genres/EditGenre.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzXEVkaXRHZW5yZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Genres/GenreForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzXEdlbnJlRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Genres/IndexGenres.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VucmVzXEluZGV4R2VucmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Movies/CreateMovie.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZU1vdmllLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Movies/DetailsMovie.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERldGFpbHNNb3ZpZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Movies/EditMovie.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXRNb3ZpZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Movies/MovieFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXE1vdmllRmlsdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Movies/MovieForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXE1vdmllRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/People/CreatePerson.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVvcGxlXENyZWF0ZVBlcnNvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/People/EditPerson.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVvcGxlXEVkaXRQZXJzb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/People/IndexPeople.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVvcGxlXEluZGV4UGVvcGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/People/PersonForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVvcGxlXFBlcnNvbkZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Users/EditUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdFVzZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Users/IndexUsers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXhVc2Vycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/Confirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpcm1hdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/CultureSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1bHR1cmVTZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/CustomNotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1c3RvbU5vdEZvdW5kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/CustomTypeahead.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1c3RvbVR5cGVhaGVhZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/DummyTextbox.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXER1bW15VGV4dGJveC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/GenericList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEdlbmVyaWNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/IndividualMovie.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEluZGl2aWR1YWxNb3ZpZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/InputImg.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0SW1nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/InputMarkdown.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0TWFya2Rvd24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/LoginLinks.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGlua3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/MoviesList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vdmllc0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/MultipleSelectorTypeahead.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE11bHRpcGxlU2VsZWN0b3JUeXBlYWhlYWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2luYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/Rating.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJhdGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/RenderMarkdown.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlbmRlck1hcmtkb3duLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-d4pvbvk6x1
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-i9qv7xv8sv
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e4z77fekry
+
+[C:/Users/MKOWALCZ/source/repos/my/BlazorMovies/BlazorMovies.Components/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-2xtdp5cvcl

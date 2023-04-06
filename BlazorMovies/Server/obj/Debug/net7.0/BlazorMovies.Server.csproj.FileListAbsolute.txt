@@ -1,0 +1,8 @@
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies\Server\obj\Debug\net7.0\BlazorMovies.Server.csproj.AssemblyReference.cache
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies\Server\obj\Debug\net7.0\BlazorMovies.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies\Server\obj\Debug\net7.0\BlazorMovies.Server.AssemblyInfoInputs.cache
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies\Server\obj\Debug\net7.0\BlazorMovies.Server.AssemblyInfo.cs
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies\Server\obj\Debug\net7.0\BlazorMovies.Server.csproj.CoreCompileInputs.cache
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies\Server\obj\Debug\net7.0\BlazorMovies.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies\Server\obj\Debug\net7.0\BlazorMovies.Server.RazorAssemblyInfo.cache
+C:\Users\MKOWALCZ\source\repos\my\BlazorMovies\BlazorMovies\Server\obj\Debug\net7.0\BlazorMovies.Server.RazorAssemblyInfo.cs
